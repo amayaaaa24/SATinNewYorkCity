@@ -1,4 +1,4 @@
-# NYC_SAT
+# SAT in New Your City
 
 In this project, we analyzed data from the New York City Department of Education to explore the relationship between demographics and SAT scores. Here are our key findings:
 
